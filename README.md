@@ -5,6 +5,7 @@ Dragon Legend is an open source project which has been created for educational p
 ### Requirements
 * Go >= 1.11
 * PostgreSQL
+* DBeaver [Recommended]
 * Git Bash (for Windows)
 * Redis [Optional]
 * K8s cluster [Optional]
