@@ -22,6 +22,7 @@ The following environment variables have to be set on the running environment.
 * SERVER_IP
 * DROP_RATE
 * EXP_RATE
+* PROXY_ENABLED [Optional]
 * REDIS_HOST [Optional]
 * REDIS_PORT [Optional]
 * REDIS_PASSWORD [Optional]
